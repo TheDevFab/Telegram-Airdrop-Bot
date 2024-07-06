@@ -9,7 +9,7 @@ airdrop_live = True
 
 # Telegram
 api_token = (
-    "<YOUR BOT TOKEN>"  # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
+    "7357274661:AAG4y3YWtoIUPousoHP9q5G72SFcKF717Js"  
 )
 
 host = ""  # ip/host where the bot is running
